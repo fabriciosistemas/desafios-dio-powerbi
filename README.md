@@ -8,6 +8,7 @@ O desafio "Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI"
 
 O desafio "Criando um Dashboard corporativo com integração com MySQL e Azure" tinha por objetivo a construção de um dashboard usando o MYSQL Workbench e a Azure. Como eu tive um problema com minha conta da Azure, fiz a execução em máquina local. Fiz transformações nos dados, renomeando os nomes de várias colunas, trocando tipos, atribuindo valores compatíveis a campos zerados ou nulos, dividindo a coluna complexa de endereço em outras mais simples, mesclando colunas de nome e sobrenome em uma única a agrupando dados por gerente.
 
-## Tecnologia
+## Tecnologias
 
 - Power BI
+- MySQL
